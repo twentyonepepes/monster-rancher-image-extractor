@@ -1,0 +1,1248 @@
+[
+  {
+    "slug": "000-potato",
+    "number": 0,
+    "name": "Potato",
+    "caption": "Animal Foods",
+    "description": "Though most monsters don' like such animal foods. a few do."
+  },
+  {
+    "slug": "001-fish",
+    "number": 1,
+    "name": "Fish",
+    "caption": "Common Principle Foods",
+    "description": "This is the main source of food for monsters."
+  },
+  {
+    "slug": "002-meat",
+    "number": 2,
+    "name": "Meat",
+    "caption": "Sumptuous Meal",
+    "description": "Best as an occasional treat. monsters tend to overeat this."
+  },
+  {
+    "slug": "003-milk",
+    "number": 3,
+    "name": "Milk",
+    "caption": "Nutritious Drink",
+    "description": "It is nutritious, but not filling, and is intended for baby monsters."
+  },
+  {
+    "slug": "004-cup-jelly",
+    "number": 4,
+    "name": "Cup Jelly",
+    "caption": "Common Snack for Monsters",
+    "description": "This gelatinous food is for busy monsters."
+  },
+  {
+    "slug": "005-tablet",
+    "number": 5,
+    "name": "Tablet",
+    "caption": "Balanced Nutrient",
+    "description": "This ill-tasting food is high in protein nutrition, and calories."
+  },
+  {
+    "slug": "006-sculpture",
+    "number": 6,
+    "name": "Sculpture",
+    "caption": "Sculpture of Artemis",
+    "description": "A monster will become enchanted by the beautiful smile of this goddess."
+  },
+  {
+    "slug": "007-geminis-pot",
+    "number": 7,
+    "name": "Gemini's Pot",
+    "caption": "Beautiful Pot",
+    "description": "It is said that a monster will feel great if it drinks from this."
+  },
+  {
+    "slug": "008-lump-of-ice",
+    "number": 8,
+    "name": "Lump of Ice",
+    "caption": "Lump of Ice",
+    "description": "It helps a monster regain stamina, but only during the summer."
+  },
+  {
+    "slug": "009-fire-stone",
+    "number": 9,
+    "name": "Fire Stone",
+    "caption": "Unique Stone",
+    "description": "The temperature of its surface will rise in winter and give you some heat."
+  },
+  {
+    "slug": "010-pure-gold",
+    "number": 10,
+    "name": "Pure Gold",
+    "caption": "Ingat of Pure Gold",
+    "description": "This is a very highly valued natural resource."
+  },
+  {
+    "slug": "011-pure-gold",
+    "number": 11,
+    "name": "Pure Gold",
+    "caption": "Ingat of Pure Gold",
+    "description": "This is a very highly valued natural resource."
+  },
+  {
+    "slug": "012-pure-silver",
+    "number": 12,
+    "name": "Pure Silver",
+    "caption": "Ingat of Pure Silver",
+    "description": "More affordable than gold but still highly valuable."
+  },
+  {
+    "slug": "013-pure-platina",
+    "number": 13,
+    "name": "Pure Platina",
+    "caption": "Ingot of Pure Platina",
+    "description": "More valuable than gold. few can afford platina."
+  },
+  {
+    "slug": "014-mango",
+    "number": 14,
+    "name": "Mango",
+    "caption": "Imported Fruit",
+    "description": "Monsters love to snack on this tasty fruit."
+  },
+  {
+    "slug": "015-candy",
+    "number": 15,
+    "name": "Candy",
+    "caption": "Imported Candy",
+    "description": "Monsters will gain weight if they eat a lot of sweet foods like this."
+  },
+  {
+    "slug": "016-smoked-snake",
+    "number": 16,
+    "name": "Smoked Snake",
+    "caption": "A Strong-smelling Food",
+    "description": "Monsters don't like this much, but it's necessary for discipline."
+  },
+  {
+    "slug": "017-apple-cake",
+    "number": 17,
+    "name": "Apple Cake",
+    "caption": "A Mildly Sweet Treat",
+    "description": "Monsters like this very much. Use it to reward your monster."
+  },
+  {
+    "slug": "018-mint-leaf",
+    "number": 18,
+    "name": "Mint Leaf",
+    "caption": "A Refreshing Herb",
+    "description": "Its scent and flavor relaxes your monster and relieves its stress."
+  },
+  {
+    "slug": "019-powder",
+    "number": 19,
+    "name": "Powder",
+    "caption": "Powder for Fatness",
+    "description": "This burns off unhealthy fat. Feed it to overweight monsters."
+  },
+  {
+    "slug": "020-sweet-jelly",
+    "number": 20,
+    "name": "Sweet Jelly",
+    "caption": "Sweet Treat",
+    "description": "To feed sweet treats too much of ten spoils your monster."
+  },
+  {
+    "slug": "021-sour-jelly",
+    "number": 21,
+    "name": "Sour Jelly",
+    "caption": "Sour Treat",
+    "description": "This sour taste makes your monster brace."
+  },
+  {
+    "slug": "022-crabs-claw",
+    "number": 22,
+    "name": "Crab's Claw",
+    "caption": "Crabs Claw",
+    "description": "It can be used as a secret seasoning when you combine monsters."
+  },
+  {
+    "slug": "023-nuts-oil",
+    "number": 23,
+    "name": "Nuts Oil",
+    "caption": "Extract from Nuts",
+    "description": "This oil squeezed out of nuts helps a monster recover from fatigue."
+  },
+  {
+    "slug": "024-nuts-oil",
+    "number": 24,
+    "name": "Nuts Oil",
+    "caption": "Extract from Nuts",
+    "description": "This oil squeezed out of nuts helps a monster recover from fatigue."
+  },
+  {
+    "slug": "025-star-prune",
+    "number": 25,
+    "name": "Star Prune",
+    "caption": "Popular Tasty Fruit",
+    "description": "It's rumored that a monster will become popular if it eats this."
+  },
+  {
+    "slug": "026-gold-peach",
+    "number": 26,
+    "name": "Gold Peach",
+    "caption": "Golden Shining Fruit",
+    "description": "To feed this increases your monster's lifespan. but only once."
+  },
+  {
+    "slug": "027-silver-peach",
+    "number": 27,
+    "name": "Silver Peach",
+    "caption": "Silvery Shining Fruit",
+    "description": "To feed this increases your monster's lifespan. but only once."
+  },
+  {
+    "slug": "028-magic-banana",
+    "number": 28,
+    "name": "Magic Banana",
+    "caption": "Mysterious Banana",
+    "description": "Its effect differs each time you feed it to your monster."
+  },
+  {
+    "slug": "029-magic-banana",
+    "number": 29,
+    "name": "Magic Banana",
+    "caption": "Mysterious Banana",
+    "description": "Its effect differs each time you feed it to your monster."
+  },
+  {
+    "slug": "030-magic-banana",
+    "number": 30,
+    "name": "Magic Banana",
+    "caption": "Mysterious Banana",
+    "description": "Its effect differs each time you feed it to your monster."
+  },
+  {
+    "slug": "031-halfeaten",
+    "number": 31,
+    "name": "Half-eaten",
+    "caption": "Half-eaten Nuts",
+    "description": "These half-eaten nuts prove some monster or other was there before."
+  },
+  {
+    "slug": "032-irritater",
+    "number": 32,
+    "name": "Irritater",
+    "caption": "Unique Flower",
+    "description": "It is said that its scent contains poison. but the truth is unknown."
+  },
+  {
+    "slug": "033-griever",
+    "number": 33,
+    "name": "Griever",
+    "caption": "Unique Flower",
+    "description": "It is said that its scent contains poison. but the truth is unknown."
+  },
+  {
+    "slug": "034-teromeann",
+    "number": 34,
+    "name": "Teromeann",
+    "caption": "Stimulant",
+    "description": "This will temporarily stimulate a monster's abilities."
+  },
+  {
+    "slug": "035-manseitan",
+    "number": 35,
+    "name": "Manseitan",
+    "caption": "Medicine from the Far East",
+    "description": "\"Lif\" and \"Ski. will increase. However, \"Spd.\" will decrease.."
+  },
+  {
+    "slug": "036-larox",
+    "number": 36,
+    "name": "Larox",
+    "caption": "Imported Medicine",
+    "description": "Pow.\" and \"Def. will increase. However, \"Lif. will decrease."
+  },
+  {
+    "slug": "037-kasseitan",
+    "number": 37,
+    "name": "Kasseitan",
+    "caption": "Medicine from the Far East",
+    "description": "This will temporarily stimulate a monster's abilities."
+  },
+  {
+    "slug": "038-troron",
+    "number": 38,
+    "name": "Troron",
+    "caption": "Imported Medicine",
+    "description": "This will stimulate a monster and help to make it more disciplined."
+  },
+  {
+    "slug": "039-nageel",
+    "number": 39,
+    "name": "Nageel",
+    "caption": "Stimulant",
+    "description": "This will temporarily stimulate a monster's abilities."
+  },
+  {
+    "slug": "040-c",
+    "number": 40,
+    "name": "???",
+    "caption": "???",
+    "description": "???"
+  },
+  {
+    "slug": "041-paradoxine",
+    "number": 41,
+    "name": "Paradoxine",
+    "caption": "Mysterious Medicine",
+    "description": "They say this is stronger than Troron, but the truth is unknown."
+  },
+  {
+    "slug": "042-disc-chips",
+    "number": 42,
+    "name": "Disc Chips",
+    "caption": "Chips of Tiger's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "043-disc-chips",
+    "number": 43,
+    "name": "Disc Chips",
+    "caption": "Chips of Hopper's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "044-disc-chips",
+    "number": 44,
+    "name": "Disc Chips",
+    "caption": "Chips of Hare's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "045-disc-chips",
+    "number": 45,
+    "name": "Disc Chips",
+    "caption": "Chins of Kato's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "046-disc-chips",
+    "number": 46,
+    "name": "Disc Chips",
+    "caption": "Chips of Suezo's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "047-disc-chips",
+    "number": 47,
+    "name": "Disc Chips",
+    "caption": "Chins of Naga's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "048-disc-chips",
+    "number": 48,
+    "name": "Disc Chips",
+    "caption": "Chips of Gaboo's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "049-disc-chips",
+    "number": 49,
+    "name": "Disc Chips",
+    "caption": "Chips of Jell's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "050-disc-chips",
+    "number": 50,
+    "name": "Disc Chips",
+    "caption": "Chips of Niton's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "051-disc-chips",
+    "number": 51,
+    "name": "Disc Chips",
+    "caption": "Chips of Plant's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "052-disc-chips",
+    "number": 52,
+    "name": "Disc Chips",
+    "caption": "Chins of Mew's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "053-disc-chips",
+    "number": 53,
+    "name": "Disc Chips",
+    "caption": "Chins of Mocchi's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "054-disc-chips",
+    "number": 54,
+    "name": "Disc Chips",
+    "caption": "Chips of Zuum's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "055-disc-chips",
+    "number": 55,
+    "name": "Disc Chips",
+    "caption": "Chins of Arrow Head's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "056-disc-chips",
+    "number": 56,
+    "name": "Disc Chips",
+    "caption": "Chips of Ape's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "057-disc-chips",
+    "number": 57,
+    "name": "Disc Chips",
+    "caption": "Chips of Monol's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "058-bay-shrimp",
+    "number": 58,
+    "name": "Bay Shrimp",
+    "caption": "Sma",
+    "description": "Shrimp Bay Shrimp can be used as bait for catching fish."
+  },
+  {
+    "slug": "059-incense",
+    "number": 59,
+    "name": "Incense",
+    "caption": "Incense Stick",
+    "description": "This item's scent has an unknown effect."
+  },
+  {
+    "slug": "060-shoes",
+    "number": 60,
+    "name": "Shoes",
+    "caption": "Leather",
+    "description": "Product These durable leather shoes offer a Monster a nice solid chew toy."
+  },
+  {
+    "slug": "061-rice-cracker",
+    "number": 61,
+    "name": "Rice Cracker",
+    "caption": "Rice Cracker Made in Galoe",
+    "description": "This famous rice cracker from Galoe village is very hard."
+  },
+  {
+    "slug": "062-c",
+    "number": 62,
+    "name": "???",
+    "caption": "???",
+    "description": "???"
+  },
+  {
+    "slug": "063-olive-oil",
+    "number": 63,
+    "name": "Olive Oil",
+    "caption": "Bottle of Olive Oil",
+    "description": "Olive oil is good for health and Kato loves drinking it."
+  },
+  {
+    "slug": "064-kaleidoscope",
+    "number": 64,
+    "name": "Kaleidoscope",
+    "caption": "A Toy",
+    "description": "You can see a beautiful pattern by peeking through its small hole."
+  },
+  {
+    "slug": "065-tories-water",
+    "number": 65,
+    "name": "Tories Water",
+    "caption": "Mineral Waters",
+    "description": "This water drawn from the Tories Mountains is good for health purpose."
+  },
+  {
+    "slug": "066-c",
+    "number": 66,
+    "name": "???",
+    "caption": "???",
+    "description": "???"
+  },
+  {
+    "slug": "067-perfume",
+    "number": 67,
+    "name": "Perfume",
+    "caption": "Bottle of Perfume",
+    "description": "Monsters will become enchanted by this light-scented scent."
+  },
+  {
+    "slug": "068-stick",
+    "number": 68,
+    "name": "Stick",
+    "caption": "Stick",
+    "description": "Both its thickness and weight are perfectly suited for Ghost."
+  },
+  {
+    "slug": "069-bone",
+    "number": 69,
+    "name": "Bone",
+    "caption": "The Remains of a Feast",
+    "description": "These left-overs are very tasty to some monsters."
+  },
+  {
+    "slug": "070-perfume-oil",
+    "number": 70,
+    "name": "Perfume Oil",
+    "caption": "Perfume Oil of Torble",
+    "description": "This famous olive oil from Torble has very good perfume."
+  },
+  {
+    "slug": "071-wool-ball",
+    "number": 71,
+    "name": "Wool Ball",
+    "caption": "Toy for Monsters",
+    "description": "This multi-colored yarn ball is very popular among monsters."
+  },
+  {
+    "slug": "072-cedar-log",
+    "number": 72,
+    "name": "Cedar Log",
+    "caption": "Log of Papas Cedar",
+    "description": "This log is highly valued for building houses."
+  },
+  {
+    "slug": "073-pile-of-meat",
+    "number": 73,
+    "name": "Pile of Meat",
+    "caption": "Sumptuous Food",
+    "description": "Such many slices of meat can be eaten only as a birthday meal"
+  },
+  {
+    "slug": "074-soil",
+    "number": 74,
+    "name": "Soil",
+    "caption": "Soi of Parepare",
+    "description": "The Parepare area is famous for its fertility."
+  },
+  {
+    "slug": "075-rock-candy",
+    "number": 75,
+    "name": "Rock Candy",
+    "caption": "Candy Made in Mandy",
+    "description": "This large hard candy is sold for monsters in the Mandy area."
+  },
+  {
+    "slug": "076-dummy",
+    "number": 76,
+    "name": "Dummy",
+    "caption": "Dummy for Training",
+    "description": "This dummy is used as a target during a monster's training."
+  },
+  {
+    "slug": "077-ice-of-papas",
+    "number": 77,
+    "name": "Ice of Papas",
+    "caption": "Lump of Ice",
+    "description": "This Ice, collected in the Papas area has a high purity."
+  },
+  {
+    "slug": "078-grease",
+    "number": 78,
+    "name": "Grease",
+    "caption": "Grease",
+    "description": "This is used as lamp oil or to reduce friction."
+  },
+  {
+    "slug": "079-dna-capsule",
+    "number": 79,
+    "name": "DNA Capsule",
+    "caption": "Gene Capsule",
+    "description": "It is said that this capsule contains a monster's genetic data."
+  },
+  {
+    "slug": "080-dna-capsule",
+    "number": 80,
+    "name": "DNA Capsule",
+    "caption": "Gene Capsule",
+    "description": "It is said that this capsule contains a monster's genetic data."
+  },
+  {
+    "slug": "081-dna-capsule",
+    "number": 81,
+    "name": "DNA Capsule",
+    "caption": "Gene Capsule",
+    "description": "It is said that this capsule contains a monster's genetic data."
+  },
+  {
+    "slug": "082-dna-capsule",
+    "number": 82,
+    "name": "DNA Capsule",
+    "caption": "Gene Capsule",
+    "description": "It is said that this capsule contains a monster's genetic data."
+  },
+  {
+    "slug": "083-dna-capsule",
+    "number": 83,
+    "name": "DNA Capsule",
+    "caption": "Gene Capsule",
+    "description": "It is said that this capsule contains a monster's genetic data."
+  },
+  {
+    "slug": "084-dna-capsule",
+    "number": 84,
+    "name": "DNA Capsule",
+    "caption": "Gene Capsule",
+    "description": "It is said that this capsule contains a monster's genetic data."
+  },
+  {
+    "slug": "085-dna-capsule",
+    "number": 85,
+    "name": "DNA Capsule",
+    "caption": "Gene Capsule",
+    "description": "It is said that this capsule contains a monster's genetic data."
+  },
+  {
+    "slug": "086-gods-slate",
+    "number": 86,
+    "name": "Gods' Slate",
+    "caption": "Slate with Inscriptions",
+    "description": "This slate is said to contain the secrets of the Monsters."
+  },
+  {
+    "slug": "087-hero-badge",
+    "number": 87,
+    "name": "Hero Badge",
+    "caption": "Badge",
+    "description": "It is a very valuable badge that shows a Monster's status."
+  },
+  {
+    "slug": "088-heel-badge",
+    "number": 88,
+    "name": "Heel Badge",
+    "caption": "Badge",
+    "description": "It is a very valuable badge that shows a Monster's status."
+  },
+  {
+    "slug": "089-quack-doll",
+    "number": 89,
+    "name": "Quack Doll",
+    "caption": "Wooden Bird Doll",
+    "description": "This wooden bird-like doll must be built by hand."
+  },
+  {
+    "slug": "090-dragon-tusk",
+    "number": 90,
+    "name": "Dragon Tusk",
+    "caption": "Legendary Monster's Tusk",
+    "description": "It is said that it is useful when trying to obtain a Dragon."
+  },
+  {
+    "slug": "091-old-sheath",
+    "number": 91,
+    "name": "Old Sheath",
+    "caption": "Ancient Weapon",
+    "description": "This sheath is covered with rust. It is useless without its sword."
+  },
+  {
+    "slug": "092-doubleedged",
+    "number": 92,
+    "name": "Double-edged",
+    "caption": "Ancient Weapon",
+    "description": "Use caution when you handle this sharp double-edged sword."
+  },
+  {
+    "slug": "093-magic-pot",
+    "number": 93,
+    "name": "Magic Pot",
+    "caption": "Pot",
+    "description": "A magical spirit might appear if you rub this beat-up pot."
+  },
+  {
+    "slug": "094-mask",
+    "number": 94,
+    "name": "Mask",
+    "caption": "Mysterious Mask",
+    "description": "There is a dangerous atmosphere about this mask."
+  },
+  {
+    "slug": "095-big-footstep",
+    "number": 95,
+    "name": "Big Footstep",
+    "caption": "Someone's Footsteps",
+    "description": "If you walk bare foot in winter, your feet will be frostbitten."
+  },
+  {
+    "slug": "096-big-boots",
+    "number": 96,
+    "name": "Big Boots",
+    "caption": "Long Boots",
+    "description": "Who in the world wears such huge long boots?"
+  },
+  {
+    "slug": "097-fire-feather",
+    "number": 97,
+    "name": "Fire Feather",
+    "caption": "Flaming Feather",
+    "description": "This flaming feather is too hot to use as a feather pen."
+  },
+  {
+    "slug": "098-taurus-horn",
+    "number": 98,
+    "name": "Taurus Horn",
+    "caption": "Legendary Monster's Horn.",
+    "description": "This legendary monster is mentioned in myths, and might actually exist."
+  },
+  {
+    "slug": "099-dinos-tail",
+    "number": 99,
+    "name": "Dino's Tail",
+    "caption": "Tail of Monster",
+    "description": "Some people carry it just as a good luck charm."
+  },
+  {
+    "slug": "100-zilla-beard",
+    "number": 100,
+    "name": "Zilla Beard",
+    "caption": "Beard of Monster",
+    "description": "It is said that it is useful when trying to obtain a Zilla."
+  },
+  {
+    "slug": "101-fun-can",
+    "number": 101,
+    "name": "Fun Can",
+    "caption": "Can of Toys",
+    "description": "You can barter five diamond mark seals for this."
+  },
+  {
+    "slug": "102-strong-glue",
+    "number": 102,
+    "name": "Strong Glue",
+    "caption": "Strong Glue",
+    "description": "This strong glue bonds anything tightly."
+  },
+  {
+    "slug": "103-quack-doll",
+    "number": 103,
+    "name": "Quack Doll",
+    "caption": "Wooden Bird Doll",
+    "description": "This wooden bird-like doll must be built by hand."
+  },
+  {
+    "slug": "104-mystic-seed",
+    "number": 104,
+    "name": "Mystic Seed",
+    "caption": "Plant Seed",
+    "description": "Try to plant it, and it might bring you good luck."
+  },
+  {
+    "slug": "105-parepare-tea",
+    "number": 105,
+    "name": "Parepare Tea",
+    "caption": "Soft Drink",
+    "description": "This a little bitter drink is good for a Monster's health."
+  },
+  {
+    "slug": "106-match",
+    "number": 106,
+    "name": "Match",
+    "caption": "Making Fire",
+    "description": "This match-like tool is used to make fire."
+  },
+  {
+    "slug": "107-tooth-pick",
+    "number": 107,
+    "name": "Tooth Pick",
+    "caption": "Tooth Pick",
+    "description": "Toothpicks are available in all monster sizes."
+  },
+  {
+    "slug": "108-playmate",
+    "number": 108,
+    "name": "Playmate",
+    "caption": "Toy for Monsters",
+    "description": "Monsters like to play with this fox-tail toy."
+  },
+  {
+    "slug": "109-whet-stone",
+    "number": 109,
+    "name": "Whet Stone",
+    "caption": "Whet Stone",
+    "description": "Some monsters use this to sharpen their claws and teeth."
+  },
+  {
+    "slug": "110-polish",
+    "number": 110,
+    "name": "Polish",
+    "caption": "Polishing Powder",
+    "description": "This polishing powder shines anything well."
+  },
+  {
+    "slug": "111-silk-cloth",
+    "number": 111,
+    "name": "Silk Cloth",
+    "caption": "Silk",
+    "description": "This polishing silk has a very fine texture."
+  },
+  {
+    "slug": "112-disc-dish",
+    "number": 112,
+    "name": "Disc Dish",
+    "caption": "Feast from the Ocean",
+    "description": "An abundance of seafood is colorfully served over the disc stone."
+  },
+  {
+    "slug": "113-gramophone",
+    "number": 113,
+    "name": "Gramophone",
+    "caption": "Gramophone",
+    "description": "Music will play when you flip the switch."
+  },
+  {
+    "slug": "114-shiny-stone",
+    "number": 114,
+    "name": "Shiny Stone",
+    "caption": "Unique Stone",
+    "description": "Females often use this shiny stone as an accessory."
+  },
+  {
+    "slug": "115-meteorite",
+    "number": 115,
+    "name": "Meteorite",
+    "caption": "Unique Stone",
+    "description": "This type of stone falls from the sky on rare occasions."
+  },
+  {
+    "slug": "116-steamed-bun",
+    "number": 116,
+    "name": "Steamed Bun",
+    "caption": "Steamed Bun Made in Colart",
+    "description": "This steamed bun from Colart is popular throughout the continent."
+  },
+  {
+    "slug": "117-razor-blade",
+    "number": 117,
+    "name": "Razor Blade",
+    "caption": "Razor Blade",
+    "description": "Actually, this is simply a disposable razor blade."
+  },
+  {
+    "slug": "118-ice-candy",
+    "number": 118,
+    "name": "Ice Candy",
+    "caption": "Snack",
+    "description": "This is the most popular ice candy among Monsters."
+  },
+  {
+    "slug": "119-fish-bone",
+    "number": 119,
+    "name": "Fish Bone",
+    "caption": "Fish Orts",
+    "description": "Some monsters really crave these fish left-overs."
+  },
+  {
+    "slug": "120-sun-lamp",
+    "number": 120,
+    "name": "Sun Lamp",
+    "caption": "Lamp",
+    "description": "A wedge of shiny stone is used to create a warm, soft glow."
+  },
+  {
+    "slug": "121-silk-hat",
+    "number": 121,
+    "name": "Silk Hat",
+    "caption": "Silk Hat",
+    "description": "This black silk hat is Ghost's favorite."
+  },
+  {
+    "slug": "122-half-cake",
+    "number": 122,
+    "name": "Half Cake",
+    "caption": "Half of Apple Cake",
+    "description": "This may be only a half portion of Apple Cake."
+  },
+  {
+    "slug": "123-shaved-ice",
+    "number": 123,
+    "name": "Shaved Ice",
+    "caption": "Snäck",
+    "description": "This treat is commonly called Blue Hawaii."
+  },
+  {
+    "slug": "124-sweet-potato",
+    "number": 124,
+    "name": "Sweet Potato",
+    "caption": "Baked Sweet Potato",
+    "description": "This hot baked sweet potato is especially good during winter."
+  },
+  {
+    "slug": "125-medal",
+    "number": 125,
+    "name": "Medal",
+    "caption": "Reward",
+    "description": "This medal is awarded for outstanding work."
+  },
+  {
+    "slug": "126-gold-medal",
+    "number": 126,
+    "name": "Gold Medal",
+    "caption": "Reward",
+    "description": "This gold medal is awarded for outstanding work."
+  },
+  {
+    "slug": "127-silver-medal",
+    "number": 127,
+    "name": "Silver Medal",
+    "caption": "Reward",
+    "description": "This silver medal is awarded for outstanding work."
+  },
+  {
+    "slug": "128-music-box",
+    "number": 128,
+    "name": "Music Box",
+    "caption": "Reward",
+    "description": "This is a rare item that has a high value among collectors."
+  },
+  {
+    "slug": "129-medallion",
+    "number": 129,
+    "name": "Medallion",
+    "caption": "Reward",
+    "description": "This a very lucky find. extremely rare item is"
+  },
+  {
+    "slug": "130-no-desire",
+    "number": 130,
+    "name": "???",
+    "caption": "???",
+    "description": "???"
+  },
+  {
+    "slug": "131-tourney",
+    "number": 131,
+    "name": "???",
+    "caption": "???",
+    "description": "???"
+  },
+  {
+    "slug": "132-rest",
+    "number": 132,
+    "name": "???",
+    "caption": "???",
+    "description": "???"
+  },
+  {
+    "slug": "133-play",
+    "number": 133,
+    "name": "???",
+    "caption": "???",
+    "description": "???"
+  },
+  {
+    "slug": "134-mirror",
+    "number": 134,
+    "name": "Mirror",
+    "caption": "Mirror",
+    "description": "Monsters are careless and usually break this."
+  },
+  {
+    "slug": "135-colart-tea",
+    "number": 135,
+    "name": "Colart Tea",
+    "caption": "Soft Drink",
+    "description": "This fine tea from Colart is very expensive."
+  },
+  {
+    "slug": "136-galoe-nut",
+    "number": 136,
+    "name": "Galoe Nut",
+    "caption": "Nut from Tree",
+    "description": "This nut comes from Galoe tree, which grows in Galoe village."
+  },
+  {
+    "slug": "137-stick-of-ice",
+    "number": 137,
+    "name": "Stick of Ice",
+    "caption": "Remains of Ice Candy",
+    "description": "Some monsters love to lick these wooden sticks."
+  },
+  {
+    "slug": "138-ocean-stone",
+    "number": 138,
+    "name": "Ocean Stone",
+    "caption": "Unique Stone",
+    "description": "This extremely rare, fine blue stone comes from the ocean."
+  },
+  {
+    "slug": "139-seaweed",
+    "number": 139,
+    "name": "Seaweed",
+    "caption": "Edible Seaweed",
+    "description": "This seaweed has a very good effect on dieting monsters."
+  },
+  {
+    "slug": "140-clay-doll",
+    "number": 140,
+    "name": "Clay Doll",
+    "caption": "Clay Doll",
+    "description": "You can't use this to spawn a Gaboo."
+  },
+  {
+    "slug": "141-clay-doll",
+    "number": 141,
+    "name": "Clay Doll",
+    "caption": "Clay Doll",
+    "description": "You can't use this to spawn a Gaboo."
+  },
+  {
+    "slug": "142-clay-doll",
+    "number": 142,
+    "name": "Clay Doll",
+    "caption": "Clay Doll",
+    "description": "You can't use this to spawn a Gaboo."
+  },
+  {
+    "slug": "143-mock-nut",
+    "number": 143,
+    "name": "Mock Nut",
+    "caption": "Nut from Tree",
+    "description": "Though it is hard to eat because of its shell. it tastes good"
+  },
+  {
+    "slug": "144-colts-cake",
+    "number": 144,
+    "name": "Colt's Cake",
+    "caption": "Homemade Snack",
+    "description": "This cake tastes so sweet that it will surprise even a Monster."
+  },
+  {
+    "slug": "145-flower",
+    "number": 145,
+    "name": "Flower",
+    "caption": "Beautiful Flower",
+    "description": "This very beautiful flower has unknown properties."
+  },
+  {
+    "slug": "146-disc-chips",
+    "number": 146,
+    "name": "Disc Chips",
+    "caption": "Chips of Pixie's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "147-disc-chips",
+    "number": 147,
+    "name": "Disc Chips",
+    "caption": "Chins of Dragon's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "148-disc-chips",
+    "number": 148,
+    "name": "Disc Chips",
+    "caption": "Chips of Centaur's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "149-disc-chips",
+    "number": 149,
+    "name": "Disc Chips",
+    "caption": "Chips of Color Pandora's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "150-disc-chips",
+    "number": 150,
+    "name": "Disc Chips",
+    "caption": "Chins of Beaclon's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "151-disc-chips",
+    "number": 151,
+    "name": "Disc Chips",
+    "caption": "Chips of Henger's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "152-disc-chips",
+    "number": 152,
+    "name": "Disc Chips",
+    "caption": "Chips of Wracky's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "153-disc-chips",
+    "number": 153,
+    "name": "Disc Chips",
+    "caption": "Chips of Golem's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "154-disc-chips",
+    "number": 154,
+    "name": "Disc Chips",
+    "caption": "Chins of Durahan's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "155-disc-chips",
+    "number": 155,
+    "name": "Disc Chips",
+    "caption": "Chins of Baku's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "156-disc-chips",
+    "number": 156,
+    "name": "Disc Chips",
+    "caption": "Chips of Gali's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "157-disc-chips",
+    "number": 157,
+    "name": "Disc Chips",
+    "caption": "Chips of Zilla's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "158-disc-chips",
+    "number": 158,
+    "name": "Disc Chips",
+    "caption": "Chins of Bajarl's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "159-disc-chips",
+    "number": 159,
+    "name": "Disc Chips",
+    "caption": "Chins of Phoenix's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "160-disc-chips",
+    "number": 160,
+    "name": "Disc Chips",
+    "caption": "Chips of Ghost's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "161-disc-chips",
+    "number": 161,
+    "name": "Disc Chips",
+    "caption": "Chips of Metalner's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "162-disc-chips",
+    "number": 162,
+    "name": "Disc Chips",
+    "caption": "Chips of Jill's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "163-disc-chips",
+    "number": 163,
+    "name": "Disc Chips",
+    "caption": "Chips of Joker's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "164-disc-chips",
+    "number": 164,
+    "name": "Disc Chips",
+    "caption": "Chins of Undine's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "165-disc-chips",
+    "number": 165,
+    "name": "Disc Chips",
+    "caption": "Chins of Mock's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "166-disc-chips",
+    "number": 166,
+    "name": "Disc Chips",
+    "caption": "Chips of Ducken's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "167-disc-chips",
+    "number": 167,
+    "name": "Disc Chips",
+    "caption": "Chins of Worm's Disc",
+    "description": "These chips can be used when combining as a secret seasoning."
+  },
+  {
+    "slug": "168-gali-mask",
+    "number": 168,
+    "name": "Gali Mask",
+    "caption": "Monster's Mask",
+    "description": "Its design resembles the sun and it is very classy."
+  },
+  {
+    "slug": "169-crystal",
+    "number": 169,
+    "name": "Crystal",
+    "caption": "Crystal",
+    "description": "The power this stone has is still covered in mystery."
+  },
+  {
+    "slug": "170-undine-slate",
+    "number": 170,
+    "name": "Undine Slate",
+    "caption": "Slate with Inscriptions",
+    "description": "This slate was discovered in a hot spring."
+  },
+  {
+    "slug": "171-reward",
+    "number": 171,
+    "name": "Reward",
+    "caption": "Reward",
+    "description": "This is meant for a Monster as a reward for its hard work."
+  },
+  {
+    "slug": "172-reward",
+    "number": 172,
+    "name": "Reward",
+    "caption": "Reward",
+    "description": "This is meant for a Monster as a reward for its hard work."
+  },
+  {
+    "slug": "173-stick",
+    "number": 173,
+    "name": "Stick",
+    "caption": "Stick",
+    "description": "Both its thickness and weight are perfectly suited for Ghost."
+  },
+  {
+    "slug": "174-cup-jelly",
+    "number": 174,
+    "name": "Cup Jelly",
+    "caption": "Common Snack for Monsters",
+    "description": "This gelatinous food is for busy monsters."
+  },
+  {
+    "slug": "175-spear",
+    "number": 175,
+    "name": "Spear",
+    "caption": "Spear",
+    "description": "This is a lost article of a Monster."
+  },
+  {
+    "slug": "176-wracky-doll",
+    "number": 176,
+    "name": "Wracky Doll",
+    "caption": "Mysterious Doll",
+    "description": "Some people think this mysterious doll comes to life at night."
+  },
+  {
+    "slug": "177-quack-doll",
+    "number": 177,
+    "name": "Quack Doll",
+    "caption": "Wooden Bird Doll",
+    "description": "This wooden bird-like doll must be built by hand."
+  }
+]

@@ -1,0 +1,7 @@
+# Task 
+You are to clean up the text created by Google Cloud Vision. Output just the correct text
+with no commentary.
+
+- You ARE to fill in obvious missing letters that vision might have missed
+- You are NOT to correct grammar - mispellings, etc - they are an important part of the text!
+- You ARE to clean up 
